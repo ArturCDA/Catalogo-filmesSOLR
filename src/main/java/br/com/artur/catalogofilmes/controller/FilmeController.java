@@ -24,8 +24,13 @@ public class FilmeController {
     @PostMapping
     public ResponseEntity<Map<String, String>> cadastrar(@Valid @RequestBody FilmeDTO dto) {
         service.salvar(dto);
-        return ResponseEntity.status(HttpStatus.CREATED)
-                .body(Map.of("mensagem", "Filme cadastrado com sucesso!"));
+        return ResponseEntity.status(HttpStatus.CREATED).body(Map.of("mensagem", "Filme cadastrado com sucesso!"));
+    }
+
+    @PostMapping("/lote")
+    public ResponseEntity<Map<String, String>> cadastrarEmLote(@RequestBody List<FilmeDTO> dtos) {
+        service.salvarEmLote(dtos);
+        return ResponseEntity.status(HttpStatus.CREATED).body(Map.of("mensagem", dtos.size() + " filmes cadastrados com sucesso!"));
     }
 
     @GetMapping

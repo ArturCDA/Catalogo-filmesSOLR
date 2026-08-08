@@ -63,6 +63,38 @@ public class FilmeService {
         }
     }
 
+    public void salvarEmLote(List<FilmeDTO> dtos) {
+        for (FilmeDTO dto : dtos) {
+            Filme filme = converter(dto);
+
+            if (filme.getId() == null) {
+                filme.setId(UUID.randomUUID().toString());
+            }
+            SolrInputDocument documento = new SolrInputDocument();
+            adicionarCampo(documento, "id", filme.getId());
+            adicionarCampo(documento, "titulo", filme.getTitulo());
+            adicionarCampo(documento, "diretor", filme.getDiretor());
+            adicionarCampo(documento, "genero", filme.getGenero());
+            adicionarCampo(documento, "ano", filme.getAno());
+            adicionarCampo(documento, "sinopse", filme.getSinopse());
+            adicionarCampo(documento, "elenco", filme.getElenco());
+            adicionarCampo(documento, "poster", filme.getPoster());
+            adicionarCampo(documento, "nota", filme.getNota());
+            
+            try {
+                solrClient.add(collection, documento);
+            } catch (SolrServerException | IOException e) {
+                throw new ServicoIndisponivelException("Erro ao adicionar filme no lote", e);
+            }
+        }
+    
+        try {
+            solrClient.commit(collection);
+        } catch (SolrServerException | IOException e) {
+            throw new ServicoIndisponivelException("Erro ao commitar lote no Solr", e);
+        }
+    }
+
     public List<Filme> listar() {
         SolrQuery query = new SolrQuery("*:*");
         query.setRows(LIMITE_MAXIMO);
