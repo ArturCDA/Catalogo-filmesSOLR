@@ -7,16 +7,16 @@ import lombok.Data;
 @Data
 public class FilmeDTO {
 
-    @NotBlank
+    @NotBlank(message = "O campo 'titulo' é obrigatório")
     private String titulo;
 
-    @NotBlank
+    @NotBlank(message = "O campo 'diretor' é obrigatório")
     private String diretor;
 
-    @NotBlank
+    @NotBlank(message = "O campo 'genero' é obrigatório")
     private String genero;
 
-    @NotNull
+    @NotNull(message = "O campo 'ano' é obrigatório")
     private Integer ano;
 
     private String sinopse;
