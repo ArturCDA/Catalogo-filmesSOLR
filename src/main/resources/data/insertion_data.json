@@ -6,7 +6,7 @@
     "genero": "Ficção Científica",
     "ano": 2010,
     "sinopse": "Dom Cobb é um ladrão habilidoso, o melhor na perigosa arte da extração, roubando segredos valiosos do fundo do subconsciente durante o estado de sono, quando a mente está mais vulnerável. Agora, Cobb tem a chance de se redimir se conseguir fazer o inverso: plantar uma ideia na mente de um herdeiro de um império.",
-    "elenco": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "elenco": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
     "nota": 8.8
   },
   {
@@ -16,7 +16,7 @@
     "genero": "Drama, Crime",
     "ano": 1972,
     "sinopse": "O patriarca idoso de uma dinastia do crime organizado em Nova York, a família Corleone, decide transferir o controle de seu império clandestino para seu filho mais novo e relutante, Michael, o que gera uma onda de traições e violência na máfia.",
-    "elenco": ["Marlon Brando", "Al Pacino", "James Caan"],
+    "elenco": "Marlon Brando, Al Pacino, James Caan",
     "nota": 9.2
   },
   {
@@ -26,7 +26,7 @@
     "genero": "Ação, Ficção Científica",
     "ano": 1999,
     "sinopse": "O programador e hacker de computador Thomas Anderson, conhecido como Neo, descobre a terrível verdade de que a realidade que ele conhece é uma simulação virtual criada por máquinas inteligentes para escravizar a humanidade e usar seus corpos como fonte de energia.",
-    "elenco": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
     "nota": 8.7
   },
   {
@@ -36,7 +36,7 @@
     "genero": "Fantasia, Aventura",
     "ano": 2001,
     "sinopse": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média do Lorde das Trevas Sauron, enfrentando orcs, feitiçaria e montanhas perigosas.",
-    "elenco": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"],
+    "elenco": "Elijah Wood, Ian McKellen, Orlando Bloom",
     "nota": 8.8
   },
   {
@@ -46,7 +46,7 @@
     "genero": "Drama, Suspense",
     "ano": 1999,
     "sinopse": "Um trabalhador de escritório deprimido e sofrendo de insônia cruza o caminho de Tyler Durden, um vendedor de sabonetes com uma filosofia de vida peculiar. Juntos, eles formam um clube clandestino que evolui para algo muito maior e perigoso.",
-    "elenco": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+    "elenco": "Brad Pitt, Edward Norton, Helena Bonham Carter",
     "nota": 8.8
   },
   {
@@ -56,7 +56,7 @@
     "genero": "Ficção Científica, Aventura",
     "ano": 2014,
     "sinopse": "Quando a Terra é consumida por pragas e tempestades de poeira, uma equipe de exploradores e cientistas viaja através de um buraco de minhoca no espaço em uma tentativa desesperada de garantir a sobrevivência da raça humana descobrindo um novo planeta habitável.",
-    "elenco": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "elenco": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
     "nota": 8.6
   },
   {
@@ -66,7 +66,7 @@
     "genero": "Ação, Crime, Drama",
     "ano": 2008,
     "sinopse": "Quando a ameaça conhecida como O Coringa surge do seu passado misterioso e causa estragos e caos no povo de Gotham, o Batman deve aceitar um dos maiores testes psicológicos e físicos de sua capacidade de lutar contra a injustiça.",
-    "elenco": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "elenco": "Christian Bale, Heath Ledger, Aaron Eckhart",
     "nota": 9.0
   },
   {
@@ -76,7 +76,7 @@
     "genero": "Crime, Drama",
     "ano": 1994,
     "sinopse": "As vidas de dois assassinos da máfia, um boxeador, a esposa de um gângster e dois bandidos de lanchonete se entrelaçam em quatro contos de violência e redenção com diálogos intensos e reviravoltas no submundo de Los Angeles.",
-    "elenco": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "elenco": "John Travolta, Uma Thurman, Samuel L. Jackson",
     "nota": 8.9
   },
   {
@@ -86,7 +86,7 @@
     "genero": "Ficção Científica, Comédia",
     "ano": 1985,
     "sinopse": "O adolescente Marty McFly é acidentalmente enviado trinta anos de volta no tempo em um carro DeLorean modificado, inventado por seu excêntrico amigo cientista, o Dr. Emmett Brown. Ele precisa fazer seus pais se apaixonarem para garantir sua própria existência.",
-    "elenco": ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson"],
+    "elenco": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
     "nota": 8.5
   },
   {
@@ -96,7 +96,7 @@
     "genero": "Suspense, Drama",
     "ano": 2019,
     "sinopse": "A ganância e a discriminação de classe ameaçam o recém-formado relacionamento simbiótico entre a rica família Park e a desamparada família Kim, que gradualmente se infiltra na casa dos Park trabalhando como funcionários disfarçados.",
-    "elenco": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+    "elenco": "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",
     "nota": 8.5
   },
   {
@@ -106,7 +106,7 @@
     "genero": "Terror, Ficção Científica",
     "ano": 1979,
     "sinopse": "A tripulação da nave espacial comercial Nostromo desperta prematuramente do crio-sono para investigar um sinal de socorro alienígena desconhecido. O terror começa quando eles percebem que trouxeram a bordo uma forma de vida hostil e letal.",
-    "elenco": ["Sigourney Weaver", "Tom Skerritt", "John Hurt"],
+    "elenco": "Sigourney Weaver, Tom Skerritt, John Hurt",
     "nota": 8.4
   },
   {
@@ -116,7 +116,7 @@
     "genero": "Ação, Aventura, Drama",
     "ano": 2000,
     "sinopse": "Um ex-general romano é traído por um imperador corrupto, tem sua família assassinada e é forçado a se tornar um gladiador. Ele luta pela sobrevivência e por vingança no Coliseu, conquistando o coração do povo e desafiando o império.",
-    "elenco": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+    "elenco": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
     "nota": 8.5
   },
   {
@@ -126,7 +126,7 @@
     "genero": "Comédia, Drama",
     "ano": 1998,
     "sinopse": "Um vendedor de seguros descobre que toda a sua vida é, na verdade, um reality show transmitido globalmente. Todos ao seu redor, incluindo sua esposa e melhor amigo, são atores pagos, e ele decide buscar a verdade e escapar dessa prisão de mídia.",
-    "elenco": ["Jim Carrey", "Ed Harris", "Laura Linney"],
+    "elenco": "Jim Carrey, Ed Harris, Laura Linney",
     "nota": 8.2
   },
   {
@@ -136,7 +136,7 @@
     "genero": "Ação, Aventura, Ficção Científica",
     "ano": 2012,
     "sinopse": "Quando o deus nórdico Loki e seu exército alienígena ameaçam destruir a Terra e escravizar a humanidade, o diretor da agência S.H.I.E.L.D. reúne um grupo de super-heróis extraordinários para formar uma equipe e deter a ameaça iminente.",
-    "elenco": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+    "elenco": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
     "nota": 8.0
   },
   {
@@ -146,7 +146,7 @@
     "genero": "Aventura, Ficção Científica",
     "ano": 1993,
     "sinopse": "Um bilionário filantropo e um grupo de geneticistas conseguem trazer dinossauros de volta à vida a partir de DNA preservado. No entanto, o parque temático na ilha tropical se torna um pesadelo mortal quando a segurança falha e os animais escapam.",
-    "elenco": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+    "elenco": "Sam Neill, Laura Dern, Jeff Goldblum",
     "nota": 8.2
   },
   {
@@ -156,7 +156,7 @@
     "genero": "Animação, Aventura, Fantasia",
     "ano": 2001,
     "sinopse": "Durante a mudança de sua família para os subúrbios, uma garota de 10 anos teimosa se perde e vagueia por um mundo governado por deuses, bruxas e espíritos. Ela deve trabalhar em uma casa de banhos mágica para libertar seus pais, que foram transformados em porcos.",
-    "elenco": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
+    "elenco": "Rumi Hiiragi, Miyu Irino, Mari Natsuki",
     "nota": 8.6
   },
   {
@@ -166,7 +166,7 @@
     "genero": "Ação, Ficção Científica",
     "ano": 1991,
     "sinopse": "Um ciborgue idêntico àquele que tentou matar Sarah Connor no passado agora é enviado de volta no tempo para proteger o filho dela, John Connor, adolescente destinado a liderar a resistência humana contra um exterminador muito mais avançado de metal líquido.",
-    "elenco": ["Arnold Schwarzenegger", "Linda Hamilton", "Edward Furlong"],
+    "elenco": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
     "nota": 8.6
   },
   {
@@ -176,7 +176,7 @@
     "genero": "Crime, Drama, Suspense",
     "ano": 1991,
     "sinopse": "Uma jovem e brilhante cadete do FBI busca a ajuda de um serial killer canibal e manipulador preso para ajudar a traçar o perfil e capturar outro serial killer solto, que arranca a pele de suas vítimas pelo país.",
-    "elenco": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"],
+    "elenco": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",
     "nota": 8.6
   },
   {
@@ -186,11 +186,7 @@
     "genero": "Crime, Drama",
     "ano": 2002,
     "sinopse": "A história acompanha duas crianças crescendo em uma favela violenta do Rio de Janeiro entre as décadas de 1960 e 1980. Enquanto um se torna fotógrafo para registrar o cotidiano trágico, o outro ascende para se tornar um implacável chefe do tráfico de drogas.",
-    "elenco": [
-      "Alexandre Rodrigues",
-      "Leandro Firmino",
-      "Matheus Nachtergaele"
-    ],
+    "elenco": "Alexandre Rodrigues, Leandro Firmino,Matheus Nachtergaele",
     "nota": 8.6
   },
   {
@@ -200,7 +196,7 @@
     "genero": "Drama, Romance, Ficção Científica",
     "ano": 2004,
     "sinopse": "Quando o relacionamento deles azeda, um casal passa por um procedimento médico revolucionário e irreversível para apagar as memórias um do outro. Durante o processo, o homem percebe que não quer esquecer a mulher que amou e tenta esconder as memórias dentro de sua própria mente.",
-    "elenco": ["Jim Carrey", "Kate Winslet", "Tom Wilkinson"],
+    "elenco": "Jim Carrey, Kate Winslet, Tom Wilkinson",
     "nota": 8.3
   }
 ]
