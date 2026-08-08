@@ -117,7 +117,7 @@ public class FilmeService {
         String consulta = Arrays.stream(palavras)
                 .map(palavra -> {
                     String p = ClientUtils.escapeQueryChars(palavra);
-                    return "titulo:*" + p + "* OR diretor:*" + p + "* OR genero:*" + p + "*";
+                    return "titulo:*" + p + "* OR diretor:*" + p + "* OR genero:*" + p + "* OR sinopse:*" + p + "* OR elenco:*" + p + "* OR ano:*" + p + "*";
                 })
                 .collect(Collectors.joining(" OR "));
 
